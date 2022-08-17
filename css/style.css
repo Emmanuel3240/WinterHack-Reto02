@@ -113,9 +113,9 @@ iframe {
 }
 
 .card a {
-  color: #333;
+  color: #fcc302;
   text-decoration: none;
-  background: #fcc302;
+  background: #333;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
