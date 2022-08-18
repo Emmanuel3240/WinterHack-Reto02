@@ -18,7 +18,7 @@ header {
 
 nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0 50px;
 }
 
@@ -50,7 +50,7 @@ ul li {
 }
 
 iframe {
-  min-width: 500px;
+  min-width: 400px;
   min-height: 200px;
 }
 
