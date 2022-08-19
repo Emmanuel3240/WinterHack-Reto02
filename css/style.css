@@ -107,7 +107,7 @@ iframe {
   margin-top: 0;
   color: #333;
   min-height: 100px;
-  flex-grow: 2;
+  flex: 1;
 }
 
 .card a {
